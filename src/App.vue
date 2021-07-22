@@ -7,7 +7,7 @@ export default {
   name: 'App',
   data() {
     return {
-      msg: "Hello Nick!"
+      msg: "Hello World!"
     }
   }
 }
